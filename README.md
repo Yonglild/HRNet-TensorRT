@@ -1,6 +1,6 @@
 # HRNet-Semantic-Segmentation
 
-This repo implemtents [HRNet-Semantic-Segmentation-v1.1](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/pytorch-v1.1)  
+This repo implemtents [HRNet-Semantic-Segmentation-v1.1](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/pytorch-v1.1) with TensorRT7 network definition API 
 
 The code refers to https://github.com/wang-xinyu/tensorrtx/tree/master/hrnet
 
