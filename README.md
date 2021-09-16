@@ -4,6 +4,7 @@ This repo implemtents [HRNet-Semantic-Segmentation-v1.1](https://github.com/HRNe
 
 The code refers to https://github.com/wang-xinyu/tensorrtx/tree/master/hrnet
 
+if you want to know more about HRNet, please click [HRNet-segmentation的网络结构分析](https://blog.csdn.net/sinat_38685124/article/details/119787868)
 
 ## How to Run
 ### For HRNet-Semantic-Segmentation-v1.1
